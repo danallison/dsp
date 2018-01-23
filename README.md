@@ -31,35 +31,35 @@ Completing the pre-work is essential to obtaining the foundational knowledge nec
 **All exercises _must_ be completed before the first day of class.**
 
  Step 0.  Getting Started
- 
- >Step 0a. [Markdown](00a-markdown.md) 
- 
+
+ >Step 0a. [Markdown](00a-markdown.md)
+
  >Step 0b. [Fork GitHub Repo](00b-fork_repo.md)
- 
+
  Step 1.  Installation  
- 
+
  >Step 1a. [Install software on your computer](01a-install.md)  
- 
+
  >Step 1b. [Install Jupyter Notebook on your computer](01b-install_jupyter.md)  
- 
+
  Step 2. [Choose and learn your editor(s)](02-editors.md)
- 
+
  Step 3. [Learn command line](03-command_line.md)  
- 
+
  Step 4. [Git and GitHub](04-git.md)
- 
+
  Step 5. Python  
- 
+
  >Step 5a. [Learn Python](05a-python.md)  
- 
+
  >Step 5b. [Advanced Python](05b-python_advanced.md)  
- 
+
  >Step 5c. [Python Pandas](05c-python_pandas.md)  
 
  Step 6. [Linear Algebra](06-linear_algebra.md)
- 
+
  Step 7. [Statistics](07-statistics.md)
- 
+
  Step 8. [More Resources](08-more_resources.md)
 
 ![save your work](img/save_your_work.png)

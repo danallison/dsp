@@ -1,5 +1,5 @@
 # Jupyter Notebook:  Getting Started
-The Jupyter notebook is an interactive computational environment, in which you can combine code, execution, rich text, mathematics, plots and rich media. 
+The Jupyter notebook is an interactive computational environment, in which you can combine code, execution, rich text, mathematics, plots and rich media.
 
 ---
 
@@ -28,7 +28,7 @@ $ jupyter notebook
 ```console
 reshama$ jupyter notebook
 [I 11:41:22.769 NotebookApp] Serving notebooks from local directory: /Users/reshamashaikh/_ds/metis
-[I 11:41:22.769 NotebookApp] 0 active kernels 
+[I 11:41:22.769 NotebookApp] 0 active kernels
 [I 11:41:22.769 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/
 [I 11:41:22.769 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
 ```
@@ -37,17 +37,17 @@ reshama$ jupyter notebook
 At terminal prompt:  
  * control + c
  * type:  `y`
- 
->my example 
+
+>my example
 ```console
 ^C[I 11:43:35.486 NotebookApp] interrupted
 Serving notebooks from local directory: /Users/reshamashaikh/_ds/metis
-0 active kernels 
+0 active kernels
 The Jupyter Notebook is running at: http://localhost:8888/
 Shutdown this notebook server (y/[n])? y
 [C 11:43:37.782 NotebookApp] Shutdown confirmed
 [I 11:43:37.783 NotebookApp] Shutting down kernels
-reshama$ 
+reshama$
 ```
 
 ---
@@ -56,4 +56,3 @@ reshama$
 
 You can try out Jupyter on a browser without installing it.  
 https://try.jupyter.org/
-

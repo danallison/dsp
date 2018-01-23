@@ -53,6 +53,3 @@ emacs 00-fork_repo.md
 clear
 # print history of commands used
 history
-  
-  
-  

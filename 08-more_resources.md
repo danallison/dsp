@@ -14,9 +14,9 @@ Read some blogs from our alumni on their experience during the data science boot
 ### [Python Style Guide](https://www.python.org/dev/peps/pep-0008/#naming-conventions)
 One of Guido's key insights is that code is read much more often than it is written. The guidelines provided here are intended to improve the readability of code and make it consistent across the wide spectrum of Python code. As PEP 20 says, "Readability counts".
 
-A style guide is about consistency. Consistency with this style guide is important. Consistency within a project is more important. Consistency within one module or function is the most important. 
+A style guide is about consistency. Consistency with this style guide is important. Consistency within a project is more important. Consistency within one module or function is the most important.
 
-The following tutorials are very helpful in preparing for the bootcamp. It is highly recommended that you review them prior to the bootcamp. 
+The following tutorials are very helpful in preparing for the bootcamp. It is highly recommended that you review them prior to the bootcamp.
 
 ### Python
 
@@ -33,7 +33,7 @@ The following tutorials are very helpful in preparing for the bootcamp. It is hi
 
 ### Data Science
  * [Data Science for Business (O'Reilly book available for purchase)](http://shop.oreilly.com/product/0636920028918.do)
- 
+
 ### Statistics
  * [Jeffrey Simonoff's Regression Course](http://people.stern.nyu.edu/jsimonof/classes/2301/pdf/)
  * [Introduction to Probability (2e) by Dimitri P. Bertsekas & John N. Tsitsiklis (online book)](https://www.scribd.com/doc/179695789/Book-Introduction-to-Probability-2e-by-Dimitri-P-Bertsekas-John-N-Tsitsiklis)

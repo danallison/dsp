@@ -17,4 +17,3 @@ You'll find the following blogs helpful in learning more about your upcoming exp
 * [Are Tech Bootcamps Worth It? One Man’s Journey](https://medium.com/@galen.ballew/arebootcampsworthit-b8eb4d28770d) (by Galen Ballew, Chicago Winter 2016, Cohort 1)
 * [Metis Data Science Bootcamp Review](https://agdatascience.squarespace.com/blog/) (by Ana Gentle, Chicago Winter 2017, Cohort 1)
 * [Reflecting on my Metis Data Science Bootcamp Experience](http://maxmelnick.com/2016/07/13/metis-experience.html) (by Max Melnick, NYC Spring 2016, Cohort 7)
-

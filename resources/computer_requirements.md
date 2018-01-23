@@ -2,7 +2,7 @@
 
 [1. Computer Specs](#section-a)  
 [2. Mac vs Windows](#section-b)  
-[3. Docker Requirements](#section-c) 
+[3. Docker Requirements](#section-c)
 
 ---
 
@@ -15,7 +15,7 @@ You will need a laptop that has access to Unix operating system (Mac or Ubuntu) 
 
 ### Notes
 - **Chromebooks** are not adequate for use in the bootcamp
-- **Windows 10** can optionally run Ubuntu simultaneously. However, this option is currently **not recommended** as there are subtle differences between this setup, which simultaneously runs both operating systems, and a virtual machine or a dual boot system. If students choose to try it, they should be warned that instructors may not be able to assist them and they may need to switch to a real virtual machine if problems persist. 
+- **Windows 10** can optionally run Ubuntu simultaneously. However, this option is currently **not recommended** as there are subtle differences between this setup, which simultaneously runs both operating systems, and a virtual machine or a dual boot system. If students choose to try it, they should be warned that instructors may not be able to assist them and they may need to switch to a real virtual machine if problems persist.
 
 ---
 
@@ -83,4 +83,3 @@ Running Docker for Mac requires Mac OS X 10.10.3 Yosemite or newer. Your Mac mus
 
 #### Docker on AWS Ubuntu
 There is the option to install Docker on an AWS Ubuntu instance.  
-

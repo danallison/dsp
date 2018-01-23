@@ -12,7 +12,7 @@ Pandas provides fast, flexible, and expressive data structures designed to make 
 ### Pandas - the name
 The name is derived from the term "Panel data", an econometric term for multidimensional structured data sets.  
 
-### What is a Pandas data frame?  
+### What is a Pandas data frame?
 **DataFrame** is a 2-dimensional labeled data structure with columns of potentially different types. You can think of it like a spreadsheet or SQL table, or a dict of Series objects. It is generally the most commonly used pandas object.
 
 ---
@@ -24,7 +24,7 @@ The name is derived from the term "Panel data", an econometric term for multidim
 #### [Greg Reda (Intro to Pandas Data Structures)](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)  
 
 #### [Things in Pandas I Wish I Had Known Sooner](http://nbviewer.jupyter.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb?utm_source=Python+Weekly+Newsletter&utm_campaign=8416b188e6-Python_Weekly_Issue_176_January_29_2015&utm_medium=email&utm_term=0_9e26887fc5-8416b188e6-312716773#Selecting-NaN-Rows)
-    
+
 ---
 
 ## :boom: Review :boom:
