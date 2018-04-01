@@ -86,14 +86,24 @@ Bayes' Theorem is an important tool in understanding what we really know, given 
 
 Elvis Presley had a twin brother who died at birth.  What is the probability that Elvis was an identical twin? Assume we observe the following probabilities in the population: fraternal twin is 1/125 and identical twin is 1/300.  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+```python
+prob_frat_twin = 1 / 125
+prob_ident_twin = 1 / 300
+prob_twin = prob_frat_twin + prob_ident_twin
+prob_twin_given_ident_twin = 1
+prob_ident_twin_given_twin = prob_ident_twin * prob_twin_given_ident_twin / prob_twin
+print(prob_ident_twin_given_twin)
+# 0.29411764705882354
+```
 
 ---
 
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+Frequentist statistics attempt to maintain an objective view of data and probabilities. The idea is to let the data speak for itself without any prior assumptions. On the other hand, Bayesian statistics rely on prior assumptions as a starting point from which to update, thus incorporating an element of subjectivity.
+
+In a frequentist context, the term "uncertainty" generally means stochastic uncertainty, or uncertainty due to randomness. In a Bayesian context, "uncertainty" can also mean epistemic uncertainty, or uncertainty due to ignorance. In many cases, this embracing of subjectivity can make Bayesian methods much more practical than frequentist methods because it allows filling in gaps with reasonable assumptions in order to get started, and then updating probabilities from that point on as data is observed.
 
 ---
 
